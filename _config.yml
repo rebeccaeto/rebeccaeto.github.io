@@ -1,23 +1,12 @@
 # Site settings
-<<<<<<< Updated upstream
 title: Living Life Together
 email: rebecca.eto@outlook.com
 description: "Living Life Together"
-baseurl: "https://rebeccaeto.github.io/"
+baseurl: "rebeccaeto/rebeccaeto.github.io/"
 url: "https://rebeccaeto.github.io/"
 twitter_username: SBootstrap
 github_username:  rebeccaeto
 facebook_username:  rebeccaeto
-=======
-title: Eto Adventure
-email: rebecca.eto@outlook.com
-description: "A blog featuring the adventure of the Eto family!"
-baseurl: "/rebeccaeto"
-url: "http://rebeccaeto.com/blog"
-twitter_username: SBootstrap
-github_username:  rebeccaeto
-facebook_username:  IronSummitMedia
->>>>>>> Stashed changes
 
 # Build settings
 markdown: kramdown
